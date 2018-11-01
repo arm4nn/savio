@@ -1,0 +1,2 @@
+|A30|27_1|MM|		42.891		10.8 sec
+|A30|27_1|dW|		Unable to find the optimum solution in 600.2 sec
