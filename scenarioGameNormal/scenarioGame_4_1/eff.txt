@@ -1,0 +1,12 @@
+|A30|4_1|MM|		49.0446		0.1 sec
+|A30|4_1|dW|		49.449		0.4 sec
+|A30|4_1|SdW|20		Unable to find the optimum solution in 0.1 sec
+|A30|4_1|SMM|20		49.4828		0.2 sec
+|A30|4_1|SdW|50		Unable to find the optimum solution in 0.1 sec
+|A30|4_1|SMM|50		49.9845		0.2 sec
+|A30|4_1|SdW|100		Unable to find the optimum solution in 0.2 sec
+|A30|4_1|SMM|100		49.7241		0.3 sec
+|A30|4_1|SdW|200		Unable to find the optimum solution in 0.3 sec
+|A30|4_1|SMM|200		49.6639		0.6 sec
+|A30|4_1|SdW|1000		Unable to find the optimum solution in 1.2 sec
+|A30|4_1|SMM|1000		49.5992		3.8 sec
